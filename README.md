@@ -1,6 +1,4 @@
-# Cloud_Computing_Project_Team-8
-
-#Microservice communication with RabbitMQ
+# Microservice communication with RabbitMQ
 
 For our project, we have used the following tools and software:
 ● Docker
