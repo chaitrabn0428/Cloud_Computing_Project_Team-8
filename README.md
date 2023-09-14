@@ -1,1 +1,2 @@
 # Microservice communication with RabbitMQ
+In this project, 4 microservices are present: A HTTP server that handles incoming requests to perform CRUD operations on a Student Management Database + Check the health of the RabbitMQ connection, a microservice that acts as the health check endpoint, a microservice that inserts a single student record, a microservice that retrieves student records, a microservice that deletes a student record given the SRN.
